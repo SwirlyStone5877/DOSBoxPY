@@ -8,7 +8,7 @@ This relies on a command prompt to work. It uses the keyboard, and not the mouse
 It's a work in progress, so it isn't done yet. But you can see the updated progress here (if I remember).
 - [x] Code main menu
 - [x] Code settings menu
-- [] Code about section
+- [ ] Code about section
 - [ ] Make it suitable for command prompt
 - [ ] Figure out how to compile python code
 - [ ] Compile
