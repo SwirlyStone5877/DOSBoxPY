@@ -10,11 +10,12 @@ It's a work in progress, so it isn't done yet. But you can see the updated progr
 - [x] Code settings menu
 - [ ] Code about section
 - [ ] Make it suitable for command prompt
+- [ ] pain
 - [ ] Figure out how to compile python code
 - [ ] Compile
 - [ ] Get some test users
 - [ ] Release
 
 
-
-[^1]: This is under the licence GNU v3. Basically, you're free to use, share, and tweak the software as long as you let others do the same with your changes. Just be sure to keep the original license intact.
+[^1]
+[^1]: This is under the licence GNU v3. Basically, you're free to use, share, and tweak the software as long as you let others do the same with your changes. Just be sure to keep the original license intact. "And if I don't?" Legal punishment :3
