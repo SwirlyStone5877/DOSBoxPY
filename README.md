@@ -21,6 +21,7 @@ A simple UI for DOSBox written in python because I suck at C.
      b. Done.
    ### The .exe File
    a. Click the file.
+   
    b. Done.
 ## Usage
 This relies on a command prompt to work. It uses the keyboard, and not the mouse. It uses numbers. The options include starting DOSBox, changing the settings, opening the (default) path to screenshots and recordings, and a simple about section.
@@ -34,8 +35,8 @@ It's a work in progress, so it isn't done yet. But you can see the updated progr
 - [x] Code settings menu
 - [x] Code about section
 - [x] Make it suitable for command prompt
-- [ ] Debugging (in progress)
-- [ ] Figure out how to compile python code
+- [x] Debugging
+- [ ] Figure out how to compile python code to exe file
 - [ ] Compile
 - [ ] Get some test users
 - [ ] Release
