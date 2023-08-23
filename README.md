@@ -32,9 +32,9 @@ If you'd like to team up with me, I'm open to contributions, but I won't be acti
 It's a work in progress, so it isn't done yet. But you can see the updated progress here (if I remember).
 - [x] Code main menu
 - [x] Code settings menu
-- [ ] Code about section
-- [ ] Make it suitable for command prompt
-- [ ] pain
+- [x] Code about section
+- [x] Make it suitable for command prompt
+- [ ] Debugging (in progress)
 - [ ] Figure out how to compile python code
 - [ ] Compile
 - [ ] Get some test users
