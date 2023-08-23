@@ -1,5 +1,5 @@
 ![placeholderlogo.png](logo.png)
-![placeholderbadge.png](link-when-i-have-it)
+[![CircleCI](https://circleci.com/gh/SwirlyStone5877/DOSBoxPy.svg?style=svg)](https://circleci.com/gh/SwirlyStone5877/DOSBoxPy)
 # DOSBoxPY
 A simple UI for DOSBox written in python because I suck at C.
 
