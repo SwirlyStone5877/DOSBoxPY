@@ -5,11 +5,11 @@ A simple UI for DOSBox written in python because I suck at C.
 
 ## Installation
 1. This requires DOSBox to be installed, of course. If you don't, you can find instructions [here](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox "Instructions on how to set DOSBox up.").
-2. Download either [the .py file](https://github.com/SwirlyStone5877/DOSBoxPY/edit/main/README.md#the-py-file) or [the .exe file](https://github.com/SwirlyStone5877/DOSBoxPY/edit/main/README.md#the-exe-file).
+2. Download either [the .py file](https://github.com/SwirlyStone5877/DOSBoxPY#the-py-file) or [the .exe file](https://github.com/SwirlyStone5877/DOSBoxPY#the-exe-file).
    ### The .py File
    a. Requires either Visual Studio Code (not recommended[^2]) or Python (the latest version)
      ##### Visual Studio Code
-     a. Open the file with Visual Stusio Code (if it doesn't ask automatically, right click the file and click "Open With.")
+     a. Open the file with Visual Studio Code (if it doesn't ask automatically, right click the file and click "Open With.")
    
      b. Right click the file in Visual Studio Code.
    
