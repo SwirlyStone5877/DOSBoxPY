@@ -36,8 +36,8 @@ It's a work in progress, so it isn't done yet. But you can see the updated progr
 - [x] Code about section
 - [x] Make it suitable for command prompt
 - [x] Debugging
-- [ ] Figure out how to compile python code to exe file
-- [ ] Compile
+- [x] Figure out how to compile python code to exe file
+- [x] Compile
 - [ ] Get some test users
 - [ ] Release
 
