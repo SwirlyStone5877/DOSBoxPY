@@ -1,4 +1,8 @@
 ![placeholderlogo.png](logo.png)
+
+![Discord User Badge](https://dcbadge.vercel.app/api/shield/1125447822540537866?style=flat&theme=default-inverted&compact=true&logoColor=presence)
+
+[![Discord Server Badge](https://dcbadge.vercel.app/api/server/Xwaz6EA64t?style=flat&theme=default-inverted&compact=true)](https://discord.gg/Xwaz6EA64t)
 # DOSBoxPY
 A simple UI for DOSBox written in python because I suck at C.
 
