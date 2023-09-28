@@ -3,6 +3,8 @@
 ![Discord User Badge](https://dcbadge.vercel.app/api/shield/1125447822540537866?style=flat&theme=default-inverted&compact=true&logoColor=presence)
 
 [![Discord Server Badge](https://dcbadge.vercel.app/api/server/Xwaz6EA64t?style=flat&theme=default-inverted&compact=true)](https://discord.gg/Xwaz6EA64t)
+# NEWS
+## For all you people using linux, a Linux port is being developed, since I got my hands on a Linux PC. It'll be tested on Linux Mint 21.2 Cinnamon, but it *should* work for other distros. Should.
 # DOSBoxPY
 A simple UI for DOSBox written in python because I suck at C.
 
